@@ -1,0 +1,25 @@
+facebook.com##.UFILikeSentence
+facebook.com##li.fbTimelineUnit
+facebook.com##div[data-sigil=reactions-bling-bar]
+facebook.com##article[data-story_category="4"]
+facebook.com##.profpic.img
+facebook.com##a[href*="/friends"]
+www.facebook.com##.UFIActorImage
+www.facebook.com##img[role=img]
+www.facebook.com##div[data-test-actorid] img
+www.facebook.com##img[id^=profile_pic_header]
+www.facebook.com##a[href*="ufi/reaction"]
+www.facebook.com##a[href*="sk="]
+www.facebook.com##a[href*="friends_all"]
+www.facebook.com##a[href*="friends_all"]+.clearfix
+www.facebook.com##div.egoOrganicColumn
+m.facebook.com##div[aria-label*="reacted"]
+m.facebook.com##a[href*="v=friends"]
+m.facebook.com##a[href*="reaction/profile"]
+m.facebook.com##div[aria-label*="reaction"]
+m.facebook.com##.touchable-notification > a[href*=photo]
+m.facebook.com##a[href*="v=followers"]
+m.facebook.com##div.touchable:last-chid > div > div > div > strong > .unlinkedTextEntity
+m.facebook.com##.slimLike
+mbasic.facebook.com##.ed.ec
+mbasic.facebook.com##.dl.dk
