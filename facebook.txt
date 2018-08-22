@@ -1,3 +1,5 @@
+# Hides likes, reactions, and profile pictures on the desktop and mobile site.
+
 facebook.com##.UFILikeSentence
 facebook.com##li.fbTimelineUnit
 facebook.com##div[data-sigil=reactions-bling-bar]
