@@ -1,0 +1,23 @@
+out.reddit.com$domain=reddit.com
+events.redditmedia.com$domain=reddit.com
+reddit.com##.gilded.comment
+www.reddit.com##.gilded.comment
+www.reddit.com##.author-tooltip
+www.reddit.com## .Post__score
+www.reddit.com##.ProfileSidebar__karma
+www.reddit.com##.read-next-container
+www.reddit.com##.server-seconds
+www.reddit.com##.trophy-table
+www.reddit.com##.icon-gilded
+www.reddit.com##.selftext.crosspost-preview
+www.reddit.com##.may-blank.content-link
+www.reddit.com##.crosspost-preview-header
+www.reddit.com##button[data-click-id=upvote] + div
+www.reddit.com##.icon-gild
+www.reddit.com##.icon-gild + span
+old.reddit.com##.author-tooltip
+old.reddit.com##.read-next
+old.reddit.com##.Post__score
+old.reddit.com##.ProfileSidebar__karma
+www.reddit.com##div[data-test-id="post-content"] div:nth-child(3) div:nth-child(2)
+www.reddit.com##div[data-test-id="post-content"] div div
