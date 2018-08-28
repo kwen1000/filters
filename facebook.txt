@@ -1,4 +1,4 @@
-# Hides likes, reactions, and profile pictures on the desktop and mobile site.
+! Hides likes, reactions, and profile pictures on the desktop and mobile site.
 
 facebook.com##.UFILikeSentence
 facebook.com##li.fbTimelineUnit
