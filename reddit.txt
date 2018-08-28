@@ -1,3 +1,5 @@
+! Hides feed upvotes, gold, and karma
+
 out.reddit.com$domain=reddit.com
 events.redditmedia.com$domain=reddit.com
 reddit.com##.gilded.comment
